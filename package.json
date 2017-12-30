@@ -1,0 +1,19 @@
+{
+  "name": "cygni",
+  "version": "0.0.1",
+  "description": "一个React同构框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubyLouvre/cygni.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubyLouvre/cygni/issues"
+  },
+  "homepage": "https://github.com/RubyLouvre/cygni#readme"
+}
